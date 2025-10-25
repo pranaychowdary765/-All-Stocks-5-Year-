@@ -1,11 +1,4 @@
-Perfect 👍 understood — you want **short, professional, and clean README files**, with only the **necessary information** (no long paragraphs).
-
-I’ll simplify the format while keeping the modern GitHub look with badges and icons.
-Here’s the concise version for your **first repo — All Stocks 5-Year** 👇
-
----
-
-### 🏦 README: All Stocks 5-Year (Short Version)
+### 🏦 README: All Stocks 5-Year
 
 ```markdown
 # 🏦 All Stocks 5-Year — Stock Price Prediction
@@ -56,19 +49,5 @@ LSTM outperformed traditional baselines, giving **lower RMSE and smoother predic
 
 ---
 
-## 🔮 Future Work
 
-* Add attention for volatility handling
-* Extend to multi-asset forecasting
-
----
-
-© 2025 Polepalli Pranay Chowdary
-
-```
-
----
-
-Would you like me to make **the other 3 README files (Crude Oil, Gold, NSE Tata Global)** in **this short, same style**?
-```
 
